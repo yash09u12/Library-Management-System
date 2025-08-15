@@ -33,11 +33,15 @@ Here’s a sneak peek of what the system looks like in action:
 
 ### Add Book
 
-![Add Book](https://raw.githubusercontent.com/yash09u12/Library_Management_System_Using_C/main/screenshots/add_book.png)
+![Add Book](second.png)
 
 ### Display Books
 
-![Display Books](https://raw.githubusercontent.com/yash09u12/Library_Management_System_Using_C/main/screenshots/display_books.png)
+![Display Books](third.png)
+
+### Final
+
+![Final](fourth.png)
 
 *If screenshots are not visible, make sure to add them to a `screenshots` folder in your repository.*
 
