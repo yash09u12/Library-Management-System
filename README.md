@@ -29,7 +29,7 @@ Here’s a sneak peek of what the system looks like in action:
 
 ### Main Menu
 
-![Main Menu](first.png)
+![Main Menu](First.png)
 
 ### Add Book
 
