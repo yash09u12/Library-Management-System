@@ -43,8 +43,6 @@ Here’s a sneak peek of what the system looks like in action:
 
 ![Final](fourth.png)
 
-*If screenshots are not visible, make sure to add them to a `screenshots` folder in your repository.*
-
 ---
 
 ## 🖥️ How to Run
