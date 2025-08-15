@@ -29,7 +29,7 @@ Here’s a sneak peek of what the system looks like in action:
 
 ### Main Menu
 
-![Main Menu](https://raw.githubusercontent.com/yash09u12/Library_Management_System_Using_C/main/screenshots/main_menu.png)
+![Main Menu](first.png)
 
 ### Add Book
 
